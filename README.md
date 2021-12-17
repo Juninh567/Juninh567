@@ -1,5 +1,9 @@
-# IDK what to put here
-HI! i'm just a random person on the internet
+# Profile archived
 
-i only know Markdown a bit
-# BYE!
+i switched to GitLab and self-hosting
+
+there will be no activity here
+
+[GitLab profile](https://gitlab.com/Juninh567)
+
+this account will only be used to view other people's stuff
