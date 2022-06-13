@@ -1,3 +1,5 @@
-# I'm back!
+# Hi!
 
-Self hosting is too hard :P
+I like programming and drawing smileys or album art.
+
+That's all i got to write for now.
