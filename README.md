@@ -8,4 +8,4 @@ That's all i got to write for now.
 
 <img src="pfp.png"
      alt="aaaaaaa"
-     width='150px' height='150px' />
+     width='100px' height='100px' />
